@@ -1,0 +1,67 @@
+
+body{
+background-image: linear-gradient( to right, red, blue, green, purple);
+
+}
+html{
+    font-size:18px;
+}
+.container{
+    font-size: 26px;
+
+}
+.box{
+    padding-top: 4rem;
+    width: 60%;
+    display: flex;
+    flex-direction: roe;
+    flex-wrap: ;
+    justify-content: center;
+    gap: 20px;
+    font-size: 16px;
+
+    
+}
+hr{
+    width: 60%;
+}
+.em{
+   width: 50%;
+   border: 1px solid black;
+   font-size: 2em; 
+}
+.em p{
+  font-size: 1em; 
+  margin-top: 2em;
+}
+.em h1{
+  font-size: 1em; 
+}
+
+.rem{ 
+    width: 50%;
+    border: 1px solid black;
+    font-size: 26px;
+}
+.rem h1{
+  font-size: 2rem;
+}
+.rem p{
+    font-size: 1rem;
+}
+
+ .btn{
+   padding-top: 20px;
+   font-size: 1em;
+ }
+ button{
+    font-size: 2em;
+    padding: 0 1em;
+    margin-left: 2em;
+ }
+ #click{
+    font-size: 1em;
+    padding: 0 2em;
+    margin-left: 2em;
+
+ }
